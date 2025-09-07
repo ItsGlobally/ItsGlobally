@@ -3,11 +3,11 @@ ItsGlobally:
   description: 一個osu跟mc玩家
   minecraft_accounts:
     main:
-      \- "ItsGlobally"
-      \- "Extands"
+      - "ItsGlobally"
+      - "Extands"
     alts:
-      \- "RankBanned"
-      \- "UserInstall"
+      - "RankBanned"
+      - "UserInstall"
   osu_username: "itsglobally"
   BlueArchive_friend_code: "AKZAVVZV"
   servers:
@@ -17,8 +17,8 @@ ItsGlobally:
       discord: "<https://discord.gg/3gHUejjtUS>"
       github: "<https://github.com/ItsGlobally>"
       ip: # unstable
-        \- "itsglobally.top"
-        \- "play1.bedtwl.com:24873"
+        - "itsglobally.top"
+        - "play1.bedtwl.com:24873"
 ```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsGlobally&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsGlobally&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
