@@ -14,8 +14,8 @@ ItsGlobally:
     CircleNetwork:
       description: "a server which i made for fun"
       status: "finding hosts"
-      discord: "<https://discord.gg/3gHUejjtUS>"
-      github: "<https://github.com/ItsGlobally>"
+      discord: "https://discord.gg/3gHUejjtUS"
+      github: "https://github.com/ItsGlobally"
       ip: # unstable
         - "itsglobally.top"
         - "play1.bedtwl.com:24873"
